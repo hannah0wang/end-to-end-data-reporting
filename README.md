@@ -1,4 +1,4 @@
-# end-to-end-data-reporting
+# End-to-End Data Reporting Project
 
 ### Project Overview
 
